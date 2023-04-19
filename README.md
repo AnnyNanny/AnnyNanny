@@ -1,6 +1,6 @@
  👋 Olá, sou Dayanne!
  
- 🌱 Estudando JavaScript
+ 🌱 Estudando JavaScript e Python
  
  😊 Pronomes: Ela/Dela
  
